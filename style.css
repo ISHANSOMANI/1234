@@ -1,0 +1,15 @@
+img{
+    width: 750px;
+    height: 1000px;
+    border: dashed goldenrod;
+}
+
+#h1{
+    text-shadow: 10px 5px 15px aqua;
+    color: lime;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body{
+    background-color: gray;
+}
